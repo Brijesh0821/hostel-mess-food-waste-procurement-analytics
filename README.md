@@ -159,6 +159,8 @@ The interactive Power BI dashboard includes:
 - Meal Filter
 - Menu Item Filter
 
+![Power BI Dashboard](images/dashboard.png)
+
 ## Project Workflow
 
 Excel  
